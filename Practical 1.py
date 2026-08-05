@@ -124,12 +124,11 @@ def main():
         return
 
     print_array(arr)
-
-    '''
-    time complexity of sorting algorithms:  
+'''
+    Time complexity of sorting algorithms:  
      INSERTION SORT: O(n^2)
      BUBBLE SORT: O(n^2)    
      MERGE SORT: O(n log n)
      QUICK SORT: O(n log n)
      SELECTION SORT: O(n^2)
-    '''
+'''
