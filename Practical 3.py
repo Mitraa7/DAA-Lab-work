@@ -42,3 +42,11 @@ def main():
     heap_sort(arr)
 
     print_array(arr)
+
+# Time Complexity:
+# Best Case    : O(n log n)
+# Average Case : O(n log n)
+# Worst Case   : O(n log n)
+#
+# Space Complexity:
+# O(1)
