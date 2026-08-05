@@ -42,5 +42,3 @@ def main():
     heap_sort(arr)
 
     print_array(arr)
-
-s
