@@ -1,4 +1,4 @@
-# Implementation of Factorial using Iterative and Recursive methods
+# Practical 4: Factorial Calculation
 
 def iterative_factorial(n):
     fact = 1

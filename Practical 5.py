@@ -1,4 +1,4 @@
-# Knapsack Problem using Dynamic Programming
+# Practical 5: 0/1 Knapsack Problem
 
 def knapsack(wt, val, n, W):
 

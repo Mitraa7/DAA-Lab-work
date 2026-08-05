@@ -1,4 +1,4 @@
-# Heap Sort 
+# Practical 3: Heap Sort 
 
 def heapify(arr, n, i):
     largest = i
