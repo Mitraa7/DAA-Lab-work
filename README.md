@@ -56,5 +56,3 @@ python "Practical 1.py"
 GitHub: [@Mitraa7](https://github.com/Mitraa7)
 
 ---
-
-⭐ If you find this repository useful, consider giving it a star!
