@@ -2,9 +2,8 @@
 
 INF = 9999
 
-
 def floyd_warshall(graph, n):
-    # Floyd-Warshall Algorithm
+   
     for k in range(n):
         for i in range(n):
             for j in range(n):
@@ -12,7 +11,6 @@ def floyd_warshall(graph, n):
                     graph[i][j] = graph[i][k] + graph[k][j]
 
 
-# ======================= Main =======================
 def main():
     n = int(input("Enter number of vertices: "))
 
