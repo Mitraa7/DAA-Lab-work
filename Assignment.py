@@ -1,18 +1,12 @@
 """
 Sorting Algorithm Visualizer (Tkinter)
 Run:  python sorting_visualizer.py
-Only the standard library is used - nothing to install.
 """
 
 import random
 import tkinter as tk
 from tkinter import ttk
 
-
-# ---------------------------------------------------------------
-# Sorting algorithms
-# Each one is a generator: it sorts the list step by step and
-# "yields" the indexes of the bars that should be highlighted.
 # ---------------------------------------------------------------
 
 def bubble_sort(a):
